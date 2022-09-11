@@ -39,6 +39,25 @@
 
 <hr>
 
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<table align = "center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=JatinPandey26&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JatinPandey26&show_icons=true&locale=en&layout=compact&theme=radical" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JatinPandey26&theme=radical" />
+</p>
+<br>
+<hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinpandey26&show_icons=true&locale=en&layout=compact" alt="jatinpandey26" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinpandey26&show_icons=true&locale=en" alt="jatinpandey26" /></p>
