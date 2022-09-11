@@ -1,4 +1,4 @@
-[![MasterHead][(https://www.google.com/imgres?imgurl=https%3A%2F%2Fmegatasktechnologies.com%2Fassets%2Fimages%2Fweb-development1.gif&imgrefurl=https%3A%2F%2Fmegatasktechnologies.com%2Fweb-development&tbnid=RnmAAwFU_0U5aM&vet=12ahUKEwjfw-q7sI36AhX2_TgGHfIPA2EQMygWegUIARCqAg..i&docid=jsA-b44pExMslM&w=2074&h=1404&q=web%20dev%20gif&hl=en&ved=2ahUKEwjfw-q7sI36AhX2_TgGHfIPA2EQMygWegUIARCqAg)]()
+[![MasterHead][https://www.google.com/imgres?imgurl=https%3A%2F%2Fmegatasktechnologies.com%2Fassets%2Fimages%2Fweb-development1.gif&imgrefurl=https%3A%2F%2Fmegatasktechnologies.com%2Fweb-development&tbnid=RnmAAwFU_0U5aM&vet=12ahUKEwjfw-q7sI36AhX2_TgGHfIPA2EQMygWegUIARCqAg..i&docid=jsA-b44pExMslM&w=2074&h=1404&q=web%20dev%20gif&hl=en&ved=2ahUKEwjfw-q7sI36AhX2_TgGHfIPA2EQMygWegUIARCqAg]()
 
 <h1 align="center">Hi 👋, I'm Jatin Pandey</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
