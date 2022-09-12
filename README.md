@@ -60,7 +60,7 @@
 
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
-   <a target="_blank"href="[https://www.linkedin.com/in/hitesh22rana](https://www.linkedin.com/in/jatin-pandey-18194b1a0/)"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jatin-Pandey" height="35" width="45" /></a>&nbsp;&nbsp;
+   <a target="_blank"href="[https://www.linkedin.com/in/jatin-pandey-18194b1a0/](https://www.linkedin.com/in/jatin-pandey-18194b1a0/)"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jatin-Pandey" height="35" width="45" /></a>&nbsp;&nbsp;
   <a href="mailto:jatin26pandey@gmail.com?subject=Hello%20Jatin,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Jatin-Pandey" height="35" width="45" /></a>&nbsp;&nbsp;
  </div>
 
