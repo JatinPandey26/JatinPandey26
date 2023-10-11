@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Jatin Pandey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"></h1> 
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
